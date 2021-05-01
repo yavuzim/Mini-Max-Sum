@@ -35,7 +35,7 @@ namespace Min_Max_Sum
                 }
             }
 
-            Console.Write(sumArr.Min() + " " + sumArr.Max());
+            Console.Write("Toplamların En Küçüğü : " + sumArr.Min() + "\n " + "Toplamların En Büyüğü : " + sumArr.Max());
         }
 
         static void Main(string[] args)
