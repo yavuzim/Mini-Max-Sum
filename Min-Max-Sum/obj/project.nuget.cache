@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "bJZK8iGuBx1wJ8CetFmvddmim13H/s/sK+8hq5Se4iCyWWDXN7mwiCzjL9AOU6qfzs2kL18kRtg2Rits2nHzDg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\YAVUZ İMER\\Desktop\\Min-Max-Sum\\Min-Max-Sum\\Min-Max-Sum.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\YAVUZ İMER\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}

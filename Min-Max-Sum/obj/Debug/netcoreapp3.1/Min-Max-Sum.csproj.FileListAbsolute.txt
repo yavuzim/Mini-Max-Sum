@@ -1,0 +1,13 @@
+C:\Users\YAVUZ İMER\Desktop\Min-Max-Sum\Min-Max-Sum\bin\Debug\netcoreapp3.1\Min-Max-Sum.exe
+C:\Users\YAVUZ İMER\Desktop\Min-Max-Sum\Min-Max-Sum\bin\Debug\netcoreapp3.1\Min-Max-Sum.deps.json
+C:\Users\YAVUZ İMER\Desktop\Min-Max-Sum\Min-Max-Sum\bin\Debug\netcoreapp3.1\Min-Max-Sum.runtimeconfig.json
+C:\Users\YAVUZ İMER\Desktop\Min-Max-Sum\Min-Max-Sum\bin\Debug\netcoreapp3.1\Min-Max-Sum.runtimeconfig.dev.json
+C:\Users\YAVUZ İMER\Desktop\Min-Max-Sum\Min-Max-Sum\bin\Debug\netcoreapp3.1\Min-Max-Sum.dll
+C:\Users\YAVUZ İMER\Desktop\Min-Max-Sum\Min-Max-Sum\bin\Debug\netcoreapp3.1\Min-Max-Sum.pdb
+C:\Users\YAVUZ İMER\Desktop\Min-Max-Sum\Min-Max-Sum\obj\Debug\netcoreapp3.1\Min-Max-Sum.csprojAssemblyReference.cache
+C:\Users\YAVUZ İMER\Desktop\Min-Max-Sum\Min-Max-Sum\obj\Debug\netcoreapp3.1\Min-Max-Sum.AssemblyInfoInputs.cache
+C:\Users\YAVUZ İMER\Desktop\Min-Max-Sum\Min-Max-Sum\obj\Debug\netcoreapp3.1\Min-Max-Sum.AssemblyInfo.cs
+C:\Users\YAVUZ İMER\Desktop\Min-Max-Sum\Min-Max-Sum\obj\Debug\netcoreapp3.1\Min-Max-Sum.csproj.CoreCompileInputs.cache
+C:\Users\YAVUZ İMER\Desktop\Min-Max-Sum\Min-Max-Sum\obj\Debug\netcoreapp3.1\Min-Max-Sum.dll
+C:\Users\YAVUZ İMER\Desktop\Min-Max-Sum\Min-Max-Sum\obj\Debug\netcoreapp3.1\Min-Max-Sum.pdb
+C:\Users\YAVUZ İMER\Desktop\Min-Max-Sum\Min-Max-Sum\obj\Debug\netcoreapp3.1\Min-Max-Sum.genruntimeconfig.cache
